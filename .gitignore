@@ -1,0 +1,36 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# --------------------
+# Machine Learning outputs
+# --------------------
+*.joblib
+*.csv
+
+# --------------------
+# HuggingFace / cache
+# --------------------
+.cache/
+
+# --------------------
+# Notes / planning files
+# --------------------
+folder structure.txt
+future upgrades.txt
+surface_idea.txt
+tools.txt
+
+# --------------------
+# IDE / Editor
+# --------------------
+.vscode/
+
+# --------------------
+# OS files
+# --------------------
+Thumbs.db
+.DS_Store
