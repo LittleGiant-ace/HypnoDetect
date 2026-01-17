@@ -55,6 +55,11 @@ Detected Signals:
 • [ml_prediction] Predicted by trained ML model
 • [factual_misconception] Known misconception pattern detected
 
+---
+
+## Demo
+
+![HypnoDetect Demo](screenshots/demo.png)
 
 ---
 
